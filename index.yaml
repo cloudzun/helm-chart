@@ -9,6 +9,6 @@ entries:
     name: aspnetapp
     type: application
     urls:
-    - https://cloudzun.github.com/helm-chart/aspnetapp-0.1.0.tgz
+    - https://www.cloudzun.com/helm-chart/aspnetapp-0.1.0.tgz
     version: 0.1.0
 generated: "2021-06-30T17:19:42.1218477+08:00"
