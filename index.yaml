@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aspnetapp:
+  - apiVersion: v2
+    appVersion: aspnetapp
+    created: "2021-06-30T17:19:42.1224767+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 48b865899526cdde021acce6951fdb313fedae2d0c4eecd964dde1a7b86fb4f9
+    name: aspnetapp
+    type: application
+    urls:
+    - https://cloudzun.github.com/helm-chart/aspnetapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-30T17:19:42.1218477+08:00"
